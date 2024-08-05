@@ -1,6 +1,6 @@
 Domain : Health Care
 PROJECT : KOVID - APP
-
+(Application coded in HTML CSS Javascript)
 In the realm of healthcare, the absence of a specialized "Kovid" medical healthcare category website creates a significant gap. This deficiency hinders the efficient dissemination of accurate medical information, preventive measures, and healthcare updates, impacting the ability of healthcare professionals and organizations to communicate effectively with the public. The opportunity lies in developing a tailored template that addresses these specific needs, fostering improved public health awareness and enhancing the overall healthcare experience.
 
 User-Friendly Interface: Ensuring easy navigation for content creators and consumers.
